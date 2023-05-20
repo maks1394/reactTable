@@ -1,1 +1,1 @@
-export * from './ReactTablePage';
+export * from './ReactTablePage/ReactTablePage';

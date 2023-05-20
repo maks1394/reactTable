@@ -1,7 +1,8 @@
 import React from 'react';
+import { ReactTable } from 'modules/ReactTable';
 
 export function ReactTablePageProto() {
-  return <h1>Hello</h1>;
+  return <ReactTable />;
 }
 
 const ReactTablePage = ReactTablePageProto;
